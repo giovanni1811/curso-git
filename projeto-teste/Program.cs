@@ -14,6 +14,7 @@ namespace projeto_teste
             Console.WriteLine("Olá Mundo!");
             Console.WriteLine("Como você está neste dia abençoaddo por Deus? ");
             Console.WriteLine("Eu lhe desejo um excelente dia!");
+            Console.WriteLine("Tchau");
 
             Console.ReadLine();
 
